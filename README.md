@@ -89,6 +89,7 @@ Thank you for following me! https://cybdetective.com
   | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
  | OmniRoute | https://github.com/diegosouzapw/OmniRoute | AI gateway/router giving one OpenAI-compatible endpoint across 300+ LLM providers (Claude, GPT, Gemini, etc.), useful for building AI-assisted OSINT analysis pipelines. Not an information-lookup API itself. | FREE |
+ | Claude API (Web Search / Web Fetch) | https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool | Anthropic's Claude API with built-in Web Search and Web Fetch server tools, letting Claude search the open web, pull pages, and reason over/summarize open-source information in a single call. Good for AI-assisted analysis on top of results from other OSINT APIs, not a replacement for them. | PAID. Billed per input/output token, plus per search/fetch use |
 
 
 
