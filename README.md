@@ -88,6 +88,7 @@ Thank you for following me! https://cybdetective.com
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
   | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
+ | OmniRoute | https://github.com/diegosouzapw/OmniRoute | AI gateway/router giving one OpenAI-compatible endpoint across 300+ LLM providers (Claude, GPT, Gemini, etc.), useful for building AI-assisted OSINT analysis pipelines. Not an information-lookup API itself. | FREE |
 
 
 
