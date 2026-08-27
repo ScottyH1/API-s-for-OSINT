@@ -20,6 +20,29 @@
 
 Thank you for following me! https://cybdetective.com
 
+## ⭐ Start here
+
+**New here?** This is a curated list of 500+ APIs for OSINT — pulling data on phone numbers, domains, IP addresses, people, companies, breaches and more, so you can automate investigations instead of doing them by hand. Every entry lists a **Price** column, so you can see up front what's free.
+
+Not sure where to begin? These entries are **free or have a free tier** and cover the most common lookups — a fast way to try the list without a credit card:
+
+| Need | API | Free tier |
+| --- | --- | --- |
+| IP address info (risk, geolocation, ASN) | [IPQuery.io](https://ipquery.io) | FREE |
+| IP geolocation | [IP API](https://ip-api.com/) | FREE |
+| Phone number validation & carrier | [Numverify](https://numverify.com) | 250 requests FREE |
+| Phone number validation & carrier | [Veriphone](https://veriphone.io/) | 1000 requests/month FREE |
+| Domain / IP / URL / hash enrichment | [API OSINT DS](https://github.com/davidonzo/apiosintDS) | FREE |
+| Domain info | [Host.io](https://host.io/) | FREE |
+| Internet / ASN analytics | [BGPView](https://bgpview.docs.apiary.io/#) | FREE |
+| Email deliverability & quality | [EVA](https://eva.pingutil.com/) | FREE |
+| Search a domain in breach databases | [BreachDirectory.com](https://breachdirectory.com/api_documentation) | FREE |
+| Web archive captures | [Wayback Machine API](https://archive.org/help/wayback_api.php) | FREE |
+
+New to calling APIs at all? Start with the beginner guide linked above: [OSINT automation with custom functions in Google Sheets](https://medium.com/@cyb_detective/osint-automation-using-%D1%81ustom-functions-for-working-with-api-requests-in-google-sheets-3f7130cf5f82).
+
+Browse the full list by category in the [Table of contents](#table-of-contents) below. Know an API that's missing? [Contributions are welcome](#contributing) — one API per pull request.
+
 ## Table of contents
 
 - [APIs](#phone-number-lookup-and-verification)
